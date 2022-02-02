@@ -1,6 +1,6 @@
 
-let weatherApikey = "c6a83800817e0c5062c06ac43c5d3d96";
-let mapApiKey = "AIzaSyDNNxEHbpPSDkk5jpUbQXuGKXRRlLleHYM";
+let weatherApikey = "#########";
+let mapApiKey = "#######";
 
 // ------------------------- test run for wearther api
 async function getCordinates(cityname){
